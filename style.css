@@ -1,0 +1,46 @@
+.img{
+    width: 1000px;
+    height: 900px;
+    position:relative;
+     top: 7px;
+    margin: 5px; 
+}
+.img-1{
+    position:relative;
+     bottom: 750px;
+    left: 100px; 
+}
+.img-2{
+    position:relative;
+     left: 200px;
+    bottom: 1150px; 
+}
+.box{
+     width: 50px;
+    height: 50px;
+    background-color: rgb(221, 16, 136);
+    z-index:6; 
+    position: absolute;
+     left:950px;
+    bottom: 850px; 
+}
+.box1{
+     width: 50px;
+    height: 50px;
+    background-color: rgb(173, 173, 173);
+    z-index:6; 
+    position: absolute;
+     left:950px;
+    bottom: 516px; 
+
+}
+.box2{
+     width: 50px;
+    height: 50px;
+    background-color:rgb(80, 159, 224);
+    z-index:6; 
+    position: absolute;
+     left:950px;
+    bottom:516px; 
+
+}
